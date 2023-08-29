@@ -1,0 +1,7 @@
+Events: Trigering some task
+    =>TODO(click, mouse, prompt, alert)
+Add event listne=> add evenst in DOM
+Syntax:  addEventListener it tskaes 2 parameters
+            first parameter: event name
+            second parameter: function that to be executed
+Prompt: 
